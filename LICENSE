@@ -1,0 +1,23 @@
+The GNU Lesser General Public License (LGPL) is a free, copyleft license for software and other kinds of works. It allows you to use, modify, and distribute the software under certain conditions. One of the key aspects of the LGPL is that it permits linking to libraries under the LGPL without requiring the entire program to be released under the LGPL. This makes it particularly useful for creating software that depends on libraries licensed under the LGPL.
+
+The LGPL has provisions for conveying modified versions of the library, allowing for the incorporation of material from library header files into object code, and specifying how combined works can be distributed. It also addresses the possibility of future versions of the license and how they might affect the distribution of the software.
+
+The license emphasizes the freedom to use and modify the software, while also ensuring that the freedoms of others are not surrendered. It explicitly states that if conditions imposed on you contradict the conditions of the LGPL, they do not excuse you from the conditions of the LGPL. This means that even if you are legally obligated to do something that contradicts the LGPL, you are still bound by the LGPL.
+
+The LGPL also mentions the possibility of using it in conjunction with the GNU Affero General Public License (AGPL). This allows for linking or combining any covered work with a work licensed under the AGPL into a single combined work, subject to the terms of both licenses.
+
+The Free Software Foundation may publish revised and/or new versions of the LGPL from time to time. These new versions will be similar in spirit to the present version but may differ in detail to address new problems or concerns. Each version is given a distinguishing version number, and if the software specifies that a certain numbered version of the LGPL "or any later version" applies to it, you have the option of following the terms and conditions either of that published version or of any later version published by the Free Software Foundation.
+
+In summary, the LGPL is a flexible license that allows for the use, modification, and distribution of software, with provisions for linking to libraries under the LGPL, conveying modified versions, and addressing future versions of the license.
+
+Citations:
+[1] https://www.gnu.org/licenses/lgpl.txt
+[2] https://www.gnu.org/licenses/lgpl-2.1.txt
+[3] https://opensource.stackexchange.com/questions/13191/ran-into-gnu-lesser-general-public-license-version-2-in-a-copyright-notice-w
+[4] https://spdx.org/licenses/LGPL-3.0.html
+[5] https://forums.rpgmakerweb.com/index.php?threads/anybody-got-a-friendly-version-of-gnu-general-less-public-license-v-2-1.144954/
+[6] https://ffmpeg.org/legal.html
+[7] https://www.oreilly.com/openbook/osfreesoft/book/ch03.pdf
+[8] https://docs.oracle.com/cd/E71897_01/E71899/html/pcalicensing-thirdparty-oraclestack.html
+[9] https://imagej.net/licensing/lgpl
+[10] https://opensource.stackexchange.com/questions/6177/gnu-lesser-general-public-license-with-signed-c-assembly
