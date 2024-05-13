@@ -64,10 +64,10 @@ class _MyAppState extends State<MyApp> {
 
                   if (result != null) {
                     File file = File(result.files.single.path!);
-                    log('File path: ${file.path}');
+                    // log('File path: ${file.path}');
                     final metadata =
                         await _metadataRetriverPlugin.getDetails(file);
-                    log('Metadata: $metadata');
+                    log('Metadata: ${metadata?.toJson()}');
                   }
                 },
                 child: const Icon(Icons.add)),

@@ -21,8 +21,7 @@ class MethodChannelMetadataRetriver extends MetadataRetriverPlatform {
 
   @override
   Future<Map?> getDetails(File file) async {
-    log('getDetails : path is ${file.path}',
-        name: 'MethodChannelMetadataRetriver');
+  
     final Map? details = await methodChannel
         .invokeMethod<Map>('getDetails', {'videoURL': file.path});
     return details;

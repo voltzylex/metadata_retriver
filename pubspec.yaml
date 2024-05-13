@@ -1,6 +1,6 @@
 name: metadata_retriver
 description: A flutter package to retreive video (meta data).
-version: 0.0.1
+version: 0.0.2
 homepage: https://pub.dev
 
 environment:

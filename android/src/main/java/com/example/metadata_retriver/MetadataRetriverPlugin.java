@@ -29,7 +29,7 @@ public class MetadataRetriverPlugin implements FlutterPlugin, MethodCallHandler 
       
     } else if (call.method.equals("getDetails")) {
       if (call.hasArgument("videoURL")) {
-        Log.d("VideoPath", call.argument("videoURL").toString());
+
         String path = call.argument("videoURL").toString();
         final VideoMetadata retriver = new VideoMetadata();
         result.success(retriver.getMetadata(path));
